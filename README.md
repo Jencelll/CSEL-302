@@ -1,22 +1,9 @@
-# Contribution guidelines
+# Project Based Learning
 
-Before making a pull request, please make sure of the following:
-* The tutorial(s) you want to add do not already exist
-* Your tutorial is correctly placed under the appropriate language/technology
-* Improvements of the same tutorial are encouraged!
-* The pull request needs to have a descriptive title
-* If the language/technology of your tutorial does not exist, feel free to create a new entry in table of contents
-* Make a separate pull request for each of the tutorial
-* Use the following format `[Title](link_to_tutorial)`
-* If your tutorial is a multi-part series, use the following format:
-    ```
-        * Title
-            * [Part 1](link_to_part_1)
-            * [Part 2](link_to_part_2)
-    ```
-* Check the spelling and grammar
-* Do the work, write good commit messages, and read the CONTRIBUTING file if there is one
-* Remove any trailing whitespaces
-* Links must be pointing straight to the tutorials, no URL shorteners. However, if the URL is too long (more than 80 characters), Google URL Shortener is allowed
+[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <tuvtran97@gmail.com>
+A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
+
+To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Table of Contents:
