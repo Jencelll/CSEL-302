@@ -132,6 +132,7 @@ Logistic Regression is a statistical technique used for predicting the outcome o
 2. <a href="Linear Regression/Linear.ipynb">Linear Regression </a>
 3. <a href="Assesment Task/AT.ipynb">Assesment Task</a>
 4. <a href="EXER 5/EXER.ipynb">EXERCISE 5</a>
+5. <a href="EXER 6/EXERR.ipynb">EXERCISE 6</a>
 
   
 
