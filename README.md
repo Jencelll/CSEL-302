@@ -54,7 +54,73 @@ Characteristics of Intelligent Agents:
 - Proactiveness: Take initiative and adapt their behavior to achieve goals.
 - Socialability: Interact with other agents and their environment in a social context.
 - Adaptability: Learn and adjust their behavior based on new information and experiences.
-- Rationality: Make decisions that maximize their chances of success![image](https://github.com/Jencelll/CSEL-302/assets/168052418/31d2459b-bdb3-4fc3-b6b0-71b67d39d9ad)
+- Rationality: Make decisions that maximize their chances of success
+
+### Lecture 2
+Data Analysis and Visualization
+
+Data Collection and Preprocessing
+
+Data collection is the process of gathering information. Just like collecting different types of toys or stamps, data collection involves bringing together pieces of information from various sources. This information could be anything from survey responses and observations to measurements and interviews.
+
+Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it. It involves tasks like removing errors, dealing with missing information, and making sure the data is in a usable form. Think of it as preparing ingredients before cooking – you want them clean and well-prepared for the best results. In data analysis, having clean and well-organized data ensures accurate and meaningful insights.
+
+Exploratory Data Analysis (EDA)
+- a critical process in data analysis, and it serves as the initial step before diving into more in-depth analysis or modeling. 
+
+Data Preprocessing Techniques
+1. Understand Data: EDA helps you get a clear picture of the data you're working with. It involves examining the data's structure, contents, and basic characteristics. This step includes looking at the types of variables (numeric, categorical), the distribution of data, and identifying any missing values or outliers.
+2. Identify Patterns: EDA allows you to uncover patterns, trends, and relationships within the data. By creating visualizations like histograms, scatter plots, and correlation matrices, you can spot patterns that may not be apparent through simple statistics or summary tables.
+3. Detect Anomalies: An important role of EDA is to identify anomalies or outliers in the data. Outliers are data points that significantly differ from the majority and can skew analysis. Understanding their presence and potential impact is crucial.
+4. Formulate Hypotheses: EDA often leads to the formulation of hypotheses or educated guesses about the data. By exploring relationships and patterns, you can generate hypotheses that guide further analysis and experimentation.
+5. Guide Decision-Making: EDA informs decisions about data preprocessing, feature engineering, and modeling strategies. It helps you decide which variables are relevant, whether data transformation is needed, and which statistical techniques or machine learning algorithms are suitable.
+6. Communicate Insights: EDA aids in communicating findings and insights to stakeholders or team members. Visualizations generated during EDA make it easier to convey complex information in a more understandable way.
+
+### Lecture 3
+
+Probability &Statistics
+
+Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0.
+
+Random Variables 
+- A random variable is a mathematical concept used to represent uncertain outcomes in probability and statistics.
+- It's a variable that can take on different values with a certain probability associated with each value.
+
+Coin Toss: One of the most common examples of a random variable is the outcome of a fair coin toss.
+- Random Variable: X
+- Possible Values: {Heads (H), Tails (T)}
+- Probability Distribution: P(X = H) = 0.5, P(X = T) = 0.5
+
+Probability Distributions
+- A probability distribution describes the likelihood of each possible outcome for a random variable.
+- It tells us how probable each value is and provides a complete picture of the random variable's behavior.
+
+Types of Probability Distributions:
+Binomial Distribution:
+- Applicable when there are only two possible outcomes (e.g., success or failure).
+- Often used in scenarios like coin flips, where the probability of success (p) and failure (q) is known.
+Normal Distribution (Gaussian Distribution):
+- Commonly observed in natural phenomena and real-world data.
+- Has a bell-shaped curve with a mean (average) and standard deviation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
 
 
 
