@@ -48,7 +48,6 @@ Rationality: Make decisions that maximize their chances of success</p>
 <p>Data Collection and Preprocessing
 
 Data collection is the process of gathering information. Just like collecting different types of toys or stamps, data collection involves bringing together pieces of information from various sources. This information could be anything from survey responses and observations to measurements and interviews.
-
 Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it. It involves tasks like removing errors, dealing with missing information, and making sure the data is in a usable form. Think of it as preparing ingredients before cooking – you want them clean and well-prepared for the best results. In data analysis, having clean and well-organized data ensures accurate and meaningful insights.
 
 Exploratory Data Analysis (EDA)
