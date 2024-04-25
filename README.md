@@ -1,24 +1,7 @@
----
-layout: default
-title: Jencel P. Sofer - CSEL 302
----
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-</head>
-<body>
-
-<h1>{{ page.title }}</h1>
+<h1>Jencel P. Sofer</h1>
 <h2>BSCS 2B</h2>
-<h1>CSEL 302</h1>
 
-<h2>Introduction</h2>
-<p>This is my compilation of activities and projects</p>
-
+<div id="table of contents">
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="#getting-started">Getting Started</a></li>
@@ -26,6 +9,7 @@ title: Jencel P. Sofer - CSEL 302
   <li><a href="#lectures">Lectures</a></li>
   <li><a href="#csel-activities">CSEL Activities</a></li>
 </ul>
+</div>
 
 <h2 id="getting-started">Getting Started</h2>
 <p>An Introduction to Intelligent Systems covers the fundamental concepts and principles underlying the design, development, and application of systems that exhibit intelligent behavior. Here's an overview:</p>
