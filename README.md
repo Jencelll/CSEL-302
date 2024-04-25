@@ -1,4 +1,4 @@
-# Activities and Projects Compilation
+# Activities and Lectures Compilation
 # CSEL 302
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/beginner-projects/Lobby)
 
