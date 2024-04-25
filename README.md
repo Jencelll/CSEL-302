@@ -1,12 +1,25 @@
-# Project Based Learning
+# Activities and Projects Compilation
+# CSEL 302
 
-[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Sofer, Jencel P.       
+BSCS - 2B
 
-A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
+# Introduction 
+ This is my compilation of activities and projects 
 
-To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+ ## Table of Contents
+ - [Getting Started](#getting-started)
+- [CSEL Lectures](#csel-lectures)
+- [CSEL Activities](#csel-activities)
 
-## Table of Contents:
+## Getting Started
 
-- [C#](#c)
-- [C/C++](#cc)
+An Introduction to Intelligent Systems covers the fundamental concepts and principles underlying the design, development, and application of systems that exhibit intelligent behavior. Here's an overview:
+
+Definition of Intelligent Systems:
+Intelligent systems are computer-based systems that exhibit characteristics commonly associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. These systems are designed to emulate human-like behavior or to perform tasks that require some form of intelligence.
+
+Overall, an Introduction to Intelligent Systems provides a foundational understanding of the principles, techniques, applications, and challenges associated with designing and deploying systems that exhibit intelligent behavior. It encompasses a broad and interdisciplinary field that continues to evolve with advances in technology and research.
+
+## CSEL Lectures
+ 
