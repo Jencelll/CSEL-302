@@ -128,6 +128,7 @@ Logistic Regression is a statistical technique used for predicting the outcome o
 "Developing a Logistic Regression model involves several key steps: First, selecting relevant features. Second, using a training dataset to fit the model. Finally, interpreting the model coefficients to understand the influence of each predictor."
 
 ## CSEL Activities
+1. <a href="DATAA/data.ipynb">Data Manipulation and Visualization </a>
 1. <a href="Activity 2/ActTwo.ipynb">Activity 2</a>
 2. <a href="Linear Regression/Linear.ipynb">Linear Regression </a>
 3. <a href="Assesment Task/AT.ipynb">Assesment Task</a>
