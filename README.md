@@ -129,6 +129,7 @@ Logistic Regression is a statistical technique used for predicting the outcome o
 
 ## CSEL Activities
 <a href="Activity 2/ActTwo.ipynb">Activity 2</a>
+<a href="Linear Regression/Linear.ipynb">Activity 2</a>
   
 
 
