@@ -3,7 +3,7 @@
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/beginner-projects/Lobby)
 
 Sofer, Jencel P.       
-BSCS - 2B
+BSCS - 2B.
 
 # Introduction 
  This is my compilation of activities and projects 
