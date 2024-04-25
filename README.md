@@ -59,8 +59,7 @@
   <li><a href="MIDTERMS/MID.ipynb">Midterms</a></li>
 </ol>
 
-</body>
-</html>
+
 
 
 
