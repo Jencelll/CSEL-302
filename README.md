@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Activities and Lectures Compilation</title>
-</head>
-<body>
-
+<h1>Jencel P. Sofer</h1>
+<h2>BSCS 2B</h2>
 <h1>CSEL 302</h1>
-<p><a href="https://gitter.im/beginner-projects/Lobby"><img src="https://img.shields.io/gitter/room/nwjs/nw.js.svg" alt="Gitter"></a></p>
 
-<p>Sofer, Jencel P.<br>
-BSCS - 2B.</p>
 
 <h2>Introduction</h2>
 <p>This is my compilation of activities and projects</p>
