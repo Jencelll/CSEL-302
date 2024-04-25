@@ -103,6 +103,42 @@ Normal Distribution (Gaussian Distribution):
 - Commonly observed in natural phenomena and real-world data.
 - Has a bell-shaped curve with a mean (average) and standard deviation.
 
+### Lecture 4
+Linear Regression
+
+- a statistical method used in the field of data analysis and predictive modeling. It's particularly useful in understanding and modeling relationships between a dependent variable (target) and one or more independent variables (features or predictors). 
+
+Dependent Variable:
+- The dependent variable, also known as the "response variable" or "outcome variable," is the variable that you are trying to understand, predict, or explain in a statistical analysis or experiment.
+- It's the variable that you measure or observe. Its value depends on the values of other variables in the study.
+
+Independent Variable:
+- The independent variable, also known as the "explanatory variable" or "predictor variable," is the variable that you manipulate or examine to see how it affects the dependent variable.
+
+Types of Linear Regression
+- Simple Linear Regression: It involves one independent variable, and the equation takes the form y = mx + b, where 'm' is the slope and 'b' is the intercept.
+
+- Multiple Linear Regression: It involves multiple independent variables, and the equation becomes y = b0 + b1x1 + b2x2 + ... + bnxn, where 'b0' is the intercept, and 'b1, b2, ... bn' are the coefficients for the respective independent variables.
+
+### Lecture 5
+Logistic Regression
+
+Logistic Regression is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. It models the probability of a binary event occurring, such as success/failure, yes/no, or pass/fail scenarios."
+
+"Developing a Logistic Regression model involves several key steps: First, selecting relevant features. Second, using a training dataset to fit the model. Finally, interpreting the model coefficients to understand the influence of each predictor."
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
